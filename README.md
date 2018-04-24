@@ -1,12 +1,12 @@
 # ShapestoLife
 An example video of this application built and running on device can be found on my [YouTube Channel.](https://www.youtube.com/watch?v=V_CQ3XSHMOA&t=4s "YouTube")
 <br />
+<br /> ![img-2127](https://user-images.githubusercontent.com/35173600/39191074-0ddb10e0-47a4-11e8-8cb4-aa25d3b044da.png)
+<br />
 <br /> This repository contains a Unity mobile application for iOS and Android devices called **_ShapestoLife_**. The application is an interactive experience where users are able to engage with a real photo image that will bring its message to life while looking at the image through their mobile device.
 <br />
-<br /> ![img-2127](https://user-images.githubusercontent.com/35173600/39190608-ec363f42-47a2-11e8-88e0-ebaca417c21e.JPG)
-<br />
-<br /> Please print this image (best would be paste it to a Word document and cut out to size. Size does not matter)
-<br />[Print this image!](https://www.google.com/search?biw=1440&bih=724&tbm=isch&sa=1&ei=Ci7fWpjHI6OkjwTG-bDQCA&q=square+circle+triangle&oq=square+circle+&gs_l=psy-ab.3.0.0l10.29772.33141.0.33968.14.10.0.4.4.0.107.747.9j1.10.0....0...1c.1.64.psy-ab..0.14.768...0i67k1.0.A1OsWIK7YbQ#imgrc=Y9-DNLz8V8QK0M: "iLoveDesign")
+<br /> Please print this image (best would be paste it to a Word document and cut out)
+<br /> ![4302226785_87bd90cd63_b](https://user-images.githubusercontent.com/35173600/39191087-15e6cbc6-47a4-11e8-8818-6d0e9e6ffafd.jpg)
 
 ## Getting Started
 
@@ -45,7 +45,7 @@ When building the application to your phone an important note:
 
 ## How to play
 To play the application **_ShapestoLife_** is very simple and fun!
-![img-2128](https://user-images.githubusercontent.com/35173600/39190702-21658434-47a3-11e8-8a9e-7cf6f843e4a2.png)
+![img-2125](https://user-images.githubusercontent.com/35173600/39191126-2dbf039e-47a4-11e8-97fc-6d06452b56ef.png)
 <br />
 <br /> • After printing the image above and opening the application on your mobile device, hold the devices camera towards the printed photo. 
 <br />
