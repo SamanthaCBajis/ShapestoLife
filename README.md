@@ -3,8 +3,10 @@ An example video of this application built and running on device can be found on
 <br />
 <br /> This repository contains a Unity mobile application for iOS and Android devices called **_ShapestoLife_**. The application is an interactive experience where users are able to engage with a real photo image that will bring its message to life while looking at the image through their mobile device.
 <br />
+<br /> ![img-2127](https://user-images.githubusercontent.com/35173600/39190608-ec363f42-47a2-11e8-88e0-ebaca417c21e.JPG)
+<br />
 <br /> Please print this image (best would be paste it to a Word document and cut out to size. Size does not matter)
-<br />![4302226785_87bd90cd63_b](https://user-images.githubusercontent.com/35173600/39189204-ad26bee2-479f-11e8-9204-46a51d27aa72.jpg)
+<br />[Print this image!](https://www.google.com/search?biw=1440&bih=724&tbm=isch&sa=1&ei=Ci7fWpjHI6OkjwTG-bDQCA&q=square+circle+triangle&oq=square+circle+&gs_l=psy-ab.3.0.0l10.29772.33141.0.33968.14.10.0.4.4.0.107.747.9j1.10.0....0...1c.1.64.psy-ab..0.14.768...0i67k1.0.A1OsWIK7YbQ#imgrc=Y9-DNLz8V8QK0M: "iLoveDesign")
 
 ## Getting Started
 
@@ -43,15 +45,13 @@ When building the application to your phone an important note:
 
 ## How to play
 To play the application **_ShapestoLife_** is very simple and fun!
-![screen shot 2018-02-09 at 1 11 41 pm](https://user-images.githubusercontent.com/35173600/36042722-d2b82748-0d9a-11e8-9879-879e8527206b.png)
+![img-2128](https://user-images.githubusercontent.com/35173600/39190702-21658434-47a3-11e8-8a9e-7cf6f843e4a2.png)
 <br />
 <br /> • After printing the image above and opening the application on your mobile device, hold the devices camera towards the printed photo. 
 <br />
 <br /> • The triangle, square and circle objects on the photo should become 3D objects! The triangle will rotate as the circle bounces to give them more of a fun effect for the user to be more engaged in the new look of the image.
 <br />
 <br /> • NOTE! The tracking only works with the image and with the shapes in the line of the camera. Please don't shake the device or get too close to the image if the images to not appear right away. Simply look for a better angle to get them to appear on your device.
-<br />
-<br /> ![screen shot 2018-02-09 at 1 13 56 pm](https://user-images.githubusercontent.com/35173600/36042827-288861f6-0d9b-11e8-8c95-74611514adb0.png)
 
 # Authors
 • Samantha Cayla Bajis - _Initial work_ - SamBajis
