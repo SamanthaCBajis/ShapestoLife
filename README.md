@@ -2,8 +2,9 @@
 An example video of this application built and running on device can be found on my [YouTube Channel.](https://www.youtube.com/watch?v=V_CQ3XSHMOA&t=4s "YouTube")
 <br />
 <br /> This repository contains a Unity mobile application for iOS and Android devices called **_ShapestoLife_**. The application is an interactive experience where users are able to engage with a real photo image that will bring its message to life while looking at the image through their mobile device.
+<br />
 <br /> Please print this image (best would be paste it to a Word document and cut out to size. Size does not matter)
-<br />![screen shot 2018-02-09 a 1 09 25 pm](https://user-images.githubusercontent.com/35173600/36042633-8a9ecb74-0d9a-11e8-8d69-0a211ec999e3.png)
+<br />![4302226785_87bd90cd63_b](https://user-images.githubusercontent.com/35173600/39189204-ad26bee2-479f-11e8-9204-46a51d27aa72.jpg)
 
 ## Getting Started
 
