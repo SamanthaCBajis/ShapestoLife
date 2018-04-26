@@ -1,5 +1,5 @@
 # ShapestoLife
-An example video of this application built and running on device can be found on my [YouTube Channel.](https://www.youtube.com/watch?v=V_CQ3XSHMOA&t=4s "YouTube")
+An example video of this application built and running on device can be found on my [YouTube Channel.](https://youtu.be/Ge-0DV4QB14 "YouTube")
 <br />
 <br /> ![img-2127](https://user-images.githubusercontent.com/35173600/39191074-0ddb10e0-47a4-11e8-8cb4-aa25d3b044da.png)
 <br />
