@@ -148,8 +148,9 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.SamBajis.MakeShapes
-    iOS: com.SamBajis.MakeShapes
+    Android: com.SamBajis.LiveShapes
+    Standalone: ' com.SamBajis.LiveShapes'
+    iOS: com.SamBajis.LiveShapes
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 19
