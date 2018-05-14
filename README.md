@@ -13,7 +13,7 @@ An example video of this application built and running on device can be found on
 ### Prerequisites
 The software you will need to download in order to build and run the game on a mobile device:
 <br /> 
-<br /> • The cross-platform engine [Unity](https://unity3d.com/unity/qa/patch-releases/2017.1.0p4 "Unity 3D download") Version 2017.2.0f3.
+<br /> • The cross-platform engine [Unity](https://unity3d.com/unity/whats-new/unity-2017.2.0 "Unity 3D download") Version 2017.2.0f3.
 <br />
 - For iOS builds, the latest version of [Xcode.](https://developer.apple.com/download/ "Xcode 9.3 Beta")
 - NOTE! You will need to have an [Apple ID](https://appleid.apple.com/account#!&page=create "Developer Account") in order to download Xcode and build for iOS.
@@ -41,7 +41,7 @@ To build and run a copy of this application to your mobile device:
 ### Deployment
 When building the application to your phone an important note:
 <br />
-<br /> • In Player Settings, you are able to not only change the name of the application and bundle identifier to whatever you would like you can also add a photo to be the icon for the application on your phone! It will be one of the first things you can do in Player Settings. Right under renaming the application.
+<br /> • In Player Settings, you are able to not only able to change the name of the application and bundle identifier to whatever you would like, you can also add a photo to be the icon for the application on your phone! It will be one of the first things you can do in Player Settings. Right under renaming the application.
 
 ## How to play
 To play the application **_ShapestoLife_** is very simple and fun!
